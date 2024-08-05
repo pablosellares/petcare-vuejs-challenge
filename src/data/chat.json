@@ -1,0 +1,30 @@
+[
+  {
+    "status": "online",
+    "name": "Helen Brooks",
+    "date": "15:56",
+    "message": "Luna has been scratching her ears a lot lately and shaking her head. I checked her ears and they look red and inflamed. She also seems to be in pain when I touch them.",
+    "notifications": ""
+  },
+  {
+    "status": "online",
+    "name": "Kathryn Murphy",
+    "date": "Wed",
+    "message": "The best way to treat an ear infection is to visit your local vet clinic and get a prescription for ear drops. The ear drops will help clear the infection and reduce..",
+    "notifications": "2"
+  },
+  {
+    "status": "offline",
+    "name": "James Grey",
+    "date": "Tue",
+    "message": "You should follow the instructions on the ear drops label, but usually you need to apply them twice a day for 7 to 10 days. You should clean her ears once a day, preferably before applying the ear drops.",
+    "notifications": ""
+  },
+  {
+    "status": "offline",
+    "name": "Jim Brown",
+    "date": "Tue",
+    "message": "Hi, I have a question about my cat.",
+    "notifications": ""
+  }
+]

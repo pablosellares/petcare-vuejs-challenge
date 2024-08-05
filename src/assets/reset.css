@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-family: "Rethink Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 16px;
+  font-style: normal;
+}
+
+li {
+  list-style: none;
+}
+
+button {
+  background-color: hsla(212, 77%, 56%, 1);
+  border-radius: 8px;
+  color: #fff;
+  cursor: pointer;
+  padding: 12px 24px;
+  transition: all 125ms ease-in-out;
+}
+
+button:hover {
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.2);
+}

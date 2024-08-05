@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "percentage": 25,
+    "color": "hsla(346, 77%, 56%, 1)",
+    "strokeDashoffset": "424px"
+  },
+  {
+    "id": 2,
+    "percentage": 79,
+    "color": "hsla(151, 62%, 40%, 1)",
+    "strokeDashoffset": "119px"
+  },
+  {
+    "id": 3,
+    "percentage": 52,
+    "color": "hsla(36, 88%, 58%, 1)",
+    "strokeDashoffset": "271px"
+  }
+]
