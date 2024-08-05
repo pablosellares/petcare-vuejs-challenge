@@ -45,6 +45,10 @@ import Chat from "../../data/chat.json";
     line-height: 24px;
 }
 
+.message-header-left_status {
+    margin-bottom: -16px;
+}
+
 .message-header-left_status.online {
     background-color: hsla(151, 62%, 40%, 1);
     border-radius: 50%;
