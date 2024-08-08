@@ -64,6 +64,7 @@ import percentages from "../../data/percentages.json";
   border: 1px solid hsla(222, 68%, 91%, 1);
   border-radius: 8px;
   display: flex;
+  flex: 1;
   flex-direction: column;
   padding: 28px;
 }
